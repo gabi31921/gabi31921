@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @gabi31921
-- 👀 I’m interested in coding and business
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on some proyects to gain experience
-- 📫 How to reach me gborrol585@gmail.com 
+- Hey, I'm Gabriel, I'm trying to become a quant, so currently learning python, R and SQL.
+- I'm open to collaborations, advice, help, or any kind of talk.
+- Gmail - gborrol585@gmail.com
+- Linkedin - www.linkedin.com/in/gabrielbor
+
+
 
 <!---
 gabi31921/gabi31921 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
